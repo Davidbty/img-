@@ -1,1 +1,10 @@
 # img-
+![笔记](https://github.com/Davidbty/img-/blob/main/1.jpg)
+![笔记](https://github.com/Davidbty/img-/blob/main/2.jpg)
+![笔记](https://github.com/Davidbty/img-/blob/main/3.jpg)
+![笔记](https://github.com/Davidbty/img-/blob/main/4.jpg)
+![笔记](https://github.com/Davidbty/img-/blob/main/5.jpg)
+![笔记](https://github.com/Davidbty/img-/blob/main/6.jpg)
+![笔记](https://github.com/Davidbty/img-/blob/main/7.jpg)
+![笔记](https://github.com/Davidbty/img-/blob/main/8.jpg)
+![笔记](https://github.com/Davidbty/img-/blob/main/9.jpg)
